@@ -1,0 +1,13 @@
+1 Espresso 120
+2 Latte 150
+3 Cappuccino 160
+4 Americano 110
+5 Hot_Chocolate 140
+6 Mocha 170
+7 Chai_Latte 130
+8 Brownie 90
+9 Croissant 100
+10 Bagel 85
+11 Cookies 70
+12 Sandwich 150
+13 Burger 180

@@ -1,0 +1,13 @@
+1 Espresso 50
+2 Latte 50
+3 Cappuccino 50
+4 Americano 50
+5 Hot_Chocolate 50
+6 Mocha 50
+7 Chai_Latte 50
+8 Brownie 50
+9 Croissant 50
+10 Bagel 50
+11 Cookies 0
+12 Sandwich 50
+13 Burger 50
